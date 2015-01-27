@@ -1,15 +1,21 @@
-body{
-background-color:#644469;
-color:#291F26;
-font-family: san-serif;
-font-size:30px;
-nav a {
-  text-decoration:none;
-  color:#009688;
-  background-color:#133E40;
-  border-radius: 2px;
-  margin: 5px;
-  
-  
-}
 
+body{
+color: #212121;
+font-family: sans-serif;
+}
+nav a {
+text-decoration: none;
+color: #F5F5F5;
+background-color: #9E9E9E;
+border-radius: 2px;
+margin: 5px;
+padding: 5px;
+display: inline-block;
+transition: 1s all;
+}
+nav a:hover{
+background-color: #727272;
+}
+h2{
+color: #1FCCB2;
+}
