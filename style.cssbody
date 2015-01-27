@@ -1,3 +1,9 @@
 body{
- background-color: red;
+
+background-color:#3A142D;
+color:#F8A49E;
+font-family: sans-serif;
+font-size:30px;
+ 
+background-color: red;
 }
