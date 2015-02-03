@@ -1,6 +1,7 @@
  body{
 color: #212121;
 font-family: sans-serif;
+margin: 0;
 }
 nav a {
 text-decoration: none;
@@ -29,7 +30,7 @@ color: #1FCCB2;
 }
 section{
 text-align: center;
-background-image: url(https://s3.amazonaws.com/StartupStockPhotos/20140808_StartupStockPhotos/103.jpg);
+background-image:url(https://s3.amazonaws.com/StartupStockPhotos/20140808_StartupStockPhotos/103.jpg);
 height: 400px;
 background-size: cover;
 }
