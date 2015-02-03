@@ -29,17 +29,17 @@ color: #1FCCB2;
 }
 section{
 text-align: center;
-background-image:url(https://s3.amazonaws.com/StartupStockPhotos/20140808_StartupStockPhotos/46.jpg);
+background-image: url(https://s3.amazonaws.com/StartupStockPhotos/20140808_StartupStockPhotos/103.jpg);
 height: 400px;
 background-size: cover;
 }
 button{
 color: #FFF;
-img:url(https://cdn4.iconfinder.com/data/icons/free-silver-button-icons/40/Pointing.png)
 background-color: #F00;
 border: none;
 border-radius: 3px;
 padding: 5px;
-margin-center: 40px;
+margin-top: 40px;
 }
+
 
