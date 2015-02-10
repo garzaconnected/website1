@@ -36,9 +36,9 @@ color: #1FCCB2;
 section{
      text-align: center;
      background-image:url(https://s3.amazonaws.com/StartupStockPhotos/20140808_StartupStockPhotos/103.jpg)(urlhttps://www.flickr.com/photos/130976335@N07/16486638852" title="My Logo by Olga Garza, on Flickr">
-    (https://farm8.staticflickr.com/7287/16486638852_b6d40c99ed_s.jpg" width="75" height="75" alt="My Logo");
-     background-position: 0px 500px;
-     height: 100px;
+
+    background-position: 0px 360px;
+     height: 70px;
      background-size: cover;
 }
 
