@@ -17,6 +17,7 @@ nav a {
   background-color:#6E3F5F ;
   border-radius: 2px;
   margin-left:115px;
+  margin-top:10px;
   display: inline-block;
   transition: 1s all;
 }
