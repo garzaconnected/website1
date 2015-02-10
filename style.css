@@ -23,16 +23,16 @@ header {
 }
 
 header img{
-border-radius: 50%;
+border-radius: 25%;
 }
 
 header h1{
 font-family: 'Over the Rainbow', cursive;
-font-size:100px;
+font-size:80px;
 }
 h2{
 color: #1FCCB2;
-font-size:35px;
+font-size:45px;
 }
 
 section{
