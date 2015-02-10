@@ -10,7 +10,7 @@ nav a {
   color: #F5F5F5;
   background-color:#6E3F5F ;
   border-radius: 2px;
-  margin: 5px;
+  margin-left:115px;
   display: inline-block;
   transition: 1s all;
 }
@@ -23,7 +23,7 @@ header {
 }
 
 header img{
-border-radius: 25%;
+border-radius: 10%;
 }
 
 header h1{
@@ -55,7 +55,7 @@ p{
   color:#140027:;
   background-color:#F3C8F5;
   font-family: 'Verdana',sans-serif;
-  font-size:15px;
+  font-size:25px;
   margin-top: 120px;
   margin-left:60px;
   padding: 40px;
