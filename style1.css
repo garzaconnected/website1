@@ -1,11 +1,12 @@
 
-background-imag{
-    url(http://www.backgroundlabs.com/item/dark-wood-panel-background)
-    
-}
+
 h1{ 
 font-size:48px;
 color:red;
 font-family:'Verdana',sans-serif;
 }
     
+body{
+    background-image:url(http://www.backgroundlabs.com/item/dark-wood-panel-background)
+    background-size:cover;
+}
