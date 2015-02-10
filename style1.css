@@ -6,7 +6,13 @@ font-size:48px;
 color:white;
 font-family:Geneva,'Verdana','Lucida Sans,'Lucida Grande','Lucida Sans Unicode',sans-serif;
 }
-    
+
+h1,
+h2,
+h3,
+h4{ text-transform:uppercase;
+}
+
 body{
     
     background-image:url("https://farm8.staticflickr.com/7457/15874647093_0b17909478_b.jpg");
