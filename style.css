@@ -52,19 +52,20 @@ section{
 
 }
 p{
-  color:FFF;
+  color:#28AB9E;
   background-color:#b2ebf2;
   font-family: 'Verdana',sans-serif;
-  font-size:20px;
+  font-size:15px;
   margin-top: 120px;
-  padding: 15px;
-  width:100px;
+  margin-left:60px;
+  padding: 40px;
+  width:360px;
   display:inline-block;
   transition: 1s all;
 }
 
 button{
-color: #FFF;
+color: #28AB9E;
 background-color:rgba(0, 0, 255, 0.75)
 border: none;
 border-radius: 3px;
