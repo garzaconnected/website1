@@ -1,5 +1,5 @@
 body{
-color:6E3F5F ;
+color: #6E3F5F;
 font-family: sans-serif;
 margin: 0px;
 }
@@ -37,7 +37,7 @@ section{
      text-align: center;
      background-image:url(https://s3.amazonaws.com/StartupStockPhotos/20140808_StartupStockPhotos/103.jpg);
      background-position: 0px 603px;
-     height: 200px;
+     height: 360px;
      background-size: cover;
 }
 
