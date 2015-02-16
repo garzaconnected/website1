@@ -3,11 +3,6 @@ color: #6E3F5F;
 font-family: sans-serif;
 margin: 0px;
 }
-body img{ 
-  url:"https://www.flickr.com/photos/130976335@N07/16486638852";
-
-}
-  
 div{margin-left:100px;
 }
 body h1{ margin-top:10px;
@@ -35,7 +30,7 @@ header {
 }
 
 header img{
-border-radius: 10%;
+border-radius: 50%;
 }
 
 header h1{
