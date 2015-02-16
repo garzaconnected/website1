@@ -48,7 +48,7 @@ section{
      background-position: 0px 603px;
      height: 360px;
      background-size: cover;
-     background-repeat:no-repeat;
+     background-repeat:repeat-x;
 }
 
 #features{
