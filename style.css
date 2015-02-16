@@ -26,11 +26,11 @@ nav a:hover{
 }
 
 header {
-         text-align: center;
+         text-align: left;
 }
 
 header img{
-border-radius: 50%;
+border-radius: 150%;
 }
 
 header h1{
