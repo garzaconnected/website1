@@ -84,6 +84,8 @@ footer{
        padding:50px;
        box-sizing: border-box;
        opacity:25%;
+       margin-top: 120px;
+       
        
 }
 img{ 
@@ -96,6 +98,7 @@ img{
  background-color: #FFFFFF;
 }
 table{
+   border: solid #000000 5px;
    width: 1214px;
    margin: 0 auto;
 }
