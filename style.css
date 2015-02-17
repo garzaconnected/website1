@@ -1,6 +1,6 @@
 body{
-color: #6E3F5F;
-background-color:#E8B3C1;
+color: #FFFFFF;
+background-color: #58CDF4;
 font-family: sans-serif;
 margin: 0px;
 }
@@ -13,7 +13,7 @@ body h1{ margin-top:10px;
 a{ text-decoration:none;
 }
 nav a {
-  color: 2px FFFFFF;
+  color: #FFFFFF;
   background-color:#920352;
   border-radius: 6px;
   margin-top:10px;
@@ -30,12 +30,10 @@ header {
 }
 
 header img{
-border-radius: 35px;
-border-color: #F8C1C1;
-border:5px;
-padding: 100px;
-margin-top: 100px;
-margin-left: 200px;
+size:50px;
+padding: 80px;
+margin-top: 85px;
+margin-left: 100px;
 
 }
 
