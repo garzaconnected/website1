@@ -28,14 +28,11 @@ nav a:hover{
 header {
          text-align:center;
 }
-
 header img{
 width:300px;
 margin-top: 85px;
 margin-right: -300px;
-
 }
-
 header h1{
 font-family: 'Aclonica', sans-serif;
 font-size:35px;
@@ -44,7 +41,6 @@ h2{
 color:#2E147F ;
 font-size:28px;
 }
-
 section{
      text-align: center;
      background-image:url("https://www.flickr.com/photos/130976335@N07/16525513066"); 
@@ -53,7 +49,6 @@ section{
  
      background-repeat:repeat-y;
 }
-
 #features{
            background-image: none;
            background-color: #0097a7;
@@ -74,7 +69,6 @@ p{
   display:inline-block;
   transition: 1s all;
 }
-
 button{
 color:#140027;
 background-color:rgba(0, 0, 255, 0.75)
