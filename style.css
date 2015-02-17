@@ -99,11 +99,6 @@ width:300px;
 }
 
 .menu-selected{ 
-   background-color:blue;
+                  background-color:blue;
 }
 
-img{
-      url("https://farm8.staticflickr.com/7448/16561231411_86524c40de_s.jpg" alt="placeit");
-      width: 95px;
-      margin-left:40px;
-}
