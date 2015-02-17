@@ -101,4 +101,5 @@ width:300px;
 .menu-selected{ 
    background-color:blue;
 }
-
+main{ width:45px;
+}
