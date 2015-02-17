@@ -99,6 +99,9 @@ width:300px;
 }
 
 .menu-selected{ 
-                  background-color:blue;
+background-color:blue;
 }
-
+tablet{
+   width: 1214px;
+   margin: 0 auto;
+}
