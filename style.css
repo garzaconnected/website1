@@ -1,6 +1,6 @@
 body{
 color: #6E3F5F;
-background-color:#EEF4C7;
+background-color:#E8B3C1;
 font-family: sans-serif;
 margin: 0px;
 }
@@ -30,19 +30,20 @@ header {
 }
 
 header img{
-border-radius: 200px;
-margin-top:300px;
-margin-left:500px;
+border-radius: 75px;
+border-color:#F8C1C1;
+margin-top:100px;
+margin-left:300px;
 
 }
 
 header h1{
 font-family: 'Aclonica', sans-serif;
-font-size:55px;
+font-size:35px;
 }
 h2{
 color: #1FCCB2;
-font-size:35px;
+font-size:28px;
 }
 
 section{
