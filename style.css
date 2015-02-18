@@ -35,11 +35,16 @@ border: 10px blue ;
 }
 header h1{
 font-family: 'Aclonica', sans-serif;
-font-size:35px;
+font-size: 35px;
+margin-right: 100px;
+margin-top: 200px;
 }
 h2{
 color:#2E147F ;
 font-size:15px;
+margin-right: 100px;
+margin-top: 200px;
+
 }
 section{
      text-align: center;
