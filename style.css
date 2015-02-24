@@ -1,7 +1,7 @@
 body{
 color: #FFFFFF;
 background-color:linear-gradient(-90deg,rgba(255, 163, 177, 1), rgba(163, 180, 255, 1)), 
-url(http://magdeleine.co/wp-content/uploads/2015/02/winter-223423-1400x933.jpg),
+url(http://magdeleine.co/wp-content/uploads/2015/02/winter-223423-1400x933.jpg);
 margin: 0px;
 }
 div{
