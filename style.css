@@ -61,14 +61,8 @@ margin-right: 80px;
 margin-top: 210px;
 
 }
-section{
-    
-     background-image:url("https://www.flickr.com/photos/130976335@N07/16525513066"); 
-     background-position: 0px 603px;
-     height: 6px;
-     width: 5px;
 
-}
+
 #features{
            background-image: none;
            background-color: #0097a7;
@@ -116,13 +110,15 @@ table{
    width: 1214px;
    margin: 0 auto;
 }
+footer{
 
-    footer{
-        background-color: #000;
-        height: 150px;
-        text-align: center;
-        background-color: #727272;
-        padding: 50px;
-        box-sizing: border-box;
+  background-color: #000;
+  height: 150px;
+  text-align: center;
+  background-color: #727272;
+  padding: 50px;
+  box-sizing: border-box;
+    }
+    .icons{ width:32px;
     }
    
