@@ -21,8 +21,8 @@ body h1{ margin-top:10px;
 }
 
 nav a {
-  color: #1F0626;
-  background-color: #9D8495;
+  color: #D0ECFA;
+  background-color: #2285A3;
   border-radius: 2px;
   margin-top: 10px;
   margin-left: 15px;
@@ -31,33 +31,33 @@ nav a {
   border-box: 5px;
 }
 nav a:hover{
-             background-color:#240633;
+             background-color:#0B6A82;
 }
 
-header {
-         text-align:center;
-}
+
 header img{
 width:300px;
 margin-top: 85px;
-margin-right: -400px;
-border: 10px blue ;
+margin-left: 400px;
+border: 80px;
+padding: 20px;
 }
 header h1{
 font-family: 'Aclonica', sans-serif;
-font-size: 35px;
+font-size: 80px;
 margin-right: 100px;
 margin-top: 200px;
+color :#2A3033;
 }
 h2{
-color:#2E147F ;
+color: #D0ECFA;
 font-size:15px;
 margin-right: 100px;
 margin-top: 200px;
 
 }
 section{
-     text-align: center;
+    
      background-image:url("https://www.flickr.com/photos/130976335@N07/16525513066"); 
      background-position: 0px 603px;
      height: 6px;
@@ -70,6 +70,7 @@ section{
            height: 250px;
            padding: 50px;
            box-sizing: border-box;
+           text-align: center;
 
 }
 p{
@@ -90,7 +91,7 @@ background-color:rgba(0, 0, 255, 0.75)
 border: none;
 border-radius: 3px;
 padding: 20px;
-margin-top: -250px;
+text-align: center;
 }
 
 
