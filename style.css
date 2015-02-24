@@ -110,7 +110,7 @@ table{
    width: 1214px;
    margin: 0 auto;
 }
-footer{ margin:0;
-       position:center;
-        
-}
+footer{ 
+       margin:0;
+       text-align:center;
+        }
