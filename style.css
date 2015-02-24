@@ -86,24 +86,11 @@ border-radius: 3px;
 padding: 20px;
 margin-top: -250px;
 }
-footer{
-       background-color:#322333;
-     
-       text-align:center;
-       background-color: #2E0A21;
-   
-       box-sizing: border-box;
-      
-     
-       
-       
-}
-footer a{ margin:0;
-          
-   
-}
+
+
 img{ 
-   url("https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10646989_4950040005592_6186084669485355678_n.jpg?oh=86ebdfc7fb08fef7030ab700aa0ce7c8&oe=5594F5E4&__gda__=1432669209_7db62595464bd76fc08efbe1df77e6db");
+   url("https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10646989_4950040005592_
+   6186084669485355678_n.jpg?oh=86ebdfc7fb08fef7030ab700aa0ce7c8&oe=5594F5E4&__gda__=1432669209_7db62595464bd76fc08efbe1df77e6db");
    width:300px;
    margin-left:200px;
    
