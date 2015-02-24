@@ -8,6 +8,7 @@ background: -o-linear-gradient(left, #cfe7fa 0%,#6393c1 100%); /* Opera 11.10+ *
 background: -ms-linear-gradient(left, #cfe7fa 0%,#6393c1 100%); /* IE10+ */
 background: linear-gradient(to right, #cfe7fa 0%,#6393c1 100%); /* W3C */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cfe7fa', endColorstr='#6393c1',GradientType=1 ); /* IE6-9 */
+url(http://magdeleine.co/wp-content/uploads/2015/02/winter-223423-1400x933.jpg),
 margin: 0px;
 }
 div{
@@ -15,9 +16,6 @@ div{
    margin-left: 100px;
    display: inline-block;
    
-}
-body h1{ margin-top:10px;
-         margin-left:10px;
 }
 
 nav a {
