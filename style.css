@@ -30,7 +30,7 @@ nav a {
   transition: 1s all;
   border-box: 5px;
 }
-nav a:hover{
+nav a:hover{ text-decoration: none;
              background-color:#0B6A82;
 }
 
@@ -39,7 +39,7 @@ header img{
 width:300px;
 margin-top: 85px;
 margin-left: 400px;
-border: 80px;
+border-radius: 80px;
 padding: 20px;
 }
 header h1{
@@ -47,10 +47,11 @@ font-family: 'Aclonica', sans-serif;
 font-size: 30px;
 margin-right: 80px;
 margin-top: 200px;
-color :#97ABB5;
+color :#350132;
 }
-h2{
-color: #D0ECFA;
+header h2{
+color: #350132;
+font-family:'SigmarOne',cursive;
 font-size:15px;
 margin-right: 80px;
 margin-top: 210px;
