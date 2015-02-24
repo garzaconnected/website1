@@ -1,6 +1,6 @@
 body{
 color: #FFFFFF;
-background-color: #FFD5DE;
+background-color: #9EC2EE;
 margin: 0px;
 }
 div{
@@ -104,5 +104,6 @@ table{
    margin: 0 auto;
 }
 footer{ margin:0;
-        position:center;
+       position:center;
+        
 }
