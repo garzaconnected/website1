@@ -23,11 +23,10 @@ nav a:hover{
 }
 
 img header{
-  url('https://farm9.staticflickr.com/8647/16699999762_1d16169f13_n.jpg" width="320" height="240" alt="aboutphoto');
+  url('https://farm9.staticflickr.com/8647/16699999762_1d16169f13_n.jpg");
+  margin:100px;
  
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center; 
+ 
 }
 }
 div{
