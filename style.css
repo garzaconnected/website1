@@ -68,13 +68,13 @@ footer{
 p{
   color: #F2D3FF;
   background-color:#2E0224;
-  font-family: 'Verdana',sans-serif;
-  font-size:15px;
+  font-family: 'Vollkorn', serif;
+  font-size:13px;
   margin-top: 120px;
   margin-left:115px;
   padding: 15px;
   width:200px;
-  display:inline-block;
+  display:block;
   transition: 1s all;
 }
 
