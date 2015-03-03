@@ -4,14 +4,7 @@ background-color: #29001C;
 }
 a{ text-decoration: none;
 }
-footer{
-        background-color: #47231D;
-        height: 150px;
-        text-align: center;
-      
-        padding: 50px;
-        box-sizing: border-box;
-    }
+
 
   
     
@@ -60,6 +53,14 @@ margin-right: 80px;
 margin-top: 210px;
 
 }
+
+footer{
+        background-color: #47231D;
+        height: 150px;
+        text-align: center;
+        padding: 50px;
+        box-sizing: border-box;
+    }
 
 
 #features{
