@@ -19,7 +19,7 @@ nav a:hover{
 }
 
 .menu-selected{ 
- background-color: #591007;
+ background-color: #59253A;
 }
 
 
@@ -66,7 +66,7 @@ footer{
 
 }
 
-p{
+section {
   color: #D5E3EB;
   background-color:#2E0224;
   font-family: 'Vollkorn', serif;
@@ -81,14 +81,14 @@ p{
 
 div{
    color:#D5E3EB;
-   margin-top: 800px;
-   margin-left: 100px;
+   margin-top: px;
+   margin-left: 300px;
    display: inline-block;
    
 }
 div img{
-  margin-left: 800px;
-  margin-top: 210px;
+  margin-left: 1000px;
+  margin-top: 150px;
   
 }
 
