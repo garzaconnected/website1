@@ -101,7 +101,8 @@ div{
 }
 
 #logo{
-       margin-left: 660px;
+       margin-left: 670px;
+       box-sizing: border-box;
        padding: 2%;
   
 }
