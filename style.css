@@ -17,14 +17,11 @@ nav a:hover{
              background-color:#0B6A82;
 }
 
+.menu-selected{ 
+ background-color: #591007;
 }
-div{
-   color:#D5E3EB;
-   margin-top: 800px;
-   margin-left: 100px;
-   display: inline-block;
-   
-}
+
+
 
   
 header {
@@ -67,6 +64,7 @@ footer{
            text-align: center;
 
 }
+
 p{
   color: #F2D3FF;
   background-color:#2E0224;
@@ -79,6 +77,16 @@ p{
   display:inline-block;
   transition: 1s all;
 }
+
+div{
+   color:#D5E3EB;
+   margin-top: 800px;
+   margin-left: 100px;
+   display: inline-block;
+   
+}
+
+
 button{
 color:#140027;
 background-color:rgba(0, 0, 255, 0.75)
@@ -89,9 +97,6 @@ text-align: center;
 }
 
 
-.menu-selected{ 
- background-color: #591007;
-}
 table{
    border: solid #000000 5px;
    width: 1214px;
