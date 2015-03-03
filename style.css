@@ -28,8 +28,7 @@ nav a:hover{
 header {
   text-align: center;
 }
-header h1,
-       h3{
+header h1{
 color :#D5E3EB;
 font-family: 'Alex Brush', cursive;
 font-size: 35px;
@@ -44,6 +43,11 @@ font-size:50px;
 margin-right: 80px;
 margin-top: 205px;
 
+}
+header h3{ color:#D5E3EB;
+font-family: 'Montez', cursive;
+  
+  
 }
 
 
