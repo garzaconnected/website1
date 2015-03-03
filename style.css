@@ -85,6 +85,11 @@ div{
    display: inline-block;
    
 }
+div img{
+  margin-left: 600px;
+  
+}
+
 
 
 button{
