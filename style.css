@@ -46,8 +46,12 @@ margin-top: 205px;
 
 }
 header img{ 
-  margin: 500px;
+  
   url("https://farm9.staticflickr.com/8647/16699999762_1d16169f13_n.jpg");
+  margin-bottom: 500px;
+  margin-top: 500px;
+  margin-left: 700px;
+  margin-right: 700px;
 }
 
 footer{
