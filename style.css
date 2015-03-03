@@ -21,8 +21,7 @@ nav a {
 nav a:hover{ 
              background-color:#0B6A82;
 }
-header{text-align: center;
-}
+
 
 div{
    margin-top: 500px;
@@ -32,11 +31,12 @@ div{
 }
 
 
-
+header{text-align: center;
+}
 header h1{
 color :#D5E3EB;
 font-family: 'Aclonica', sans-serif;
-font-size: 50px;
+font-size: 45px;
 margin-right: 80px;
 margin-top: 200px;
 
