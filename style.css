@@ -79,6 +79,12 @@ section {
   transition: 1s all;
 }
 
+div img{
+  margin-left: 500px;
+  margin-top: 70px;
+}
+  
+
 div{
    color:#D5E3EB;
    margin-top: px;
@@ -86,11 +92,7 @@ div{
    display: inline-block;
    
 }
-div img{
-  margin-left: 700px;
-  margin-top: 95px;
-  
-}
+
 
 
 
