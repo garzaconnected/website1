@@ -107,7 +107,7 @@ div{
 }
 
 
-button {
+.button {
   background: 1px #c7b7b3;
   background-image: -webkit-linear-gradient(top, #c7b7b3, #7d4b6c);
   background-image: -moz-linear-gradient(top, #c7b7b3, #7d4b6c);
@@ -125,7 +125,7 @@ button {
   vertical-align: middle;
 }
 
-button :hover {
+.button :hover {
   background: #cccddb;
   background-image: -webkit-linear-gradient(top, #cccddb, #4c6270);
   background-image: -moz-linear-gradient(top, #cccddb, #4c6270);
