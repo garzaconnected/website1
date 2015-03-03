@@ -132,7 +132,7 @@ button :hover {
   background-image: -ms-linear-gradient(top, #cccddb, #4c6270);
   background-image: -o-linear-gradient(top, #cccddb, #4c6270);
   background-image: linear-gradient(to bottom, #cccddb, #4c6270);
-  text-decoration: none;
+  
 }
 
   
