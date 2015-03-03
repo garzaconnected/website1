@@ -122,8 +122,9 @@ div{
   font-size: 15px;
   padding: 6px 7px 7px 6px;
   text-decoration: none;
-  width: 12px;
-  height: 10px;
+  width: 30px;
+  height: 45px;
+  margin-top: 115px;
 }
 
 .btn:hover {
