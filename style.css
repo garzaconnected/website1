@@ -18,7 +18,8 @@ nav a:hover{
 }
 
 }
-div{color:#D5E3EB;
+div{
+   color:#D5E3EB;
    margin-top: 800px;
    margin-left: 100px;
    display: inline-block;
@@ -49,7 +50,7 @@ margin-top: 205px;
 
 footer{
         background-color: #D5E3EB;
-        height: 100px;
+        height: 150px;
         text-align: center;
         padding: 50px;
         box-sizing: border-box;
