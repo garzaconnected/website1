@@ -174,8 +174,8 @@ div{
 
 table{
    color: #DDC2C3;
- 
-   border: #B0556C 5px;
+   border-radius: 5px;
+   border: #B0556C;
    width: 1214px;
    margin-bottom: 300px;
    
