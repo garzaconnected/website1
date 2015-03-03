@@ -3,6 +3,11 @@ body{
 background-color: #29001C;
 margin: 0;
 }
+header,
+footer{
+  margin-left:-10px;
+  margin-right:-10px;
+}
 a{ text-decoration: none;
 }
 nav a {
