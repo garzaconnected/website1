@@ -22,12 +22,6 @@ nav a:hover{
              background-color:#0B6A82;
 }
 
-img header{
-  url('https://farm9.staticflickr.com/8647/16699999762_1d16169f13_n.jpg");
-  margin:100px;
- 
- 
-}
 }
 div{
    margin-top: 500px;
@@ -37,6 +31,9 @@ div{
 }
 
 
+  
+}
+  
 header{text-align: center;
 }
 header h1{
