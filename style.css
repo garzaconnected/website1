@@ -3,10 +3,6 @@ background-color: #29001C;
 }
 a{ text-decoration: none;
 }
-
-
-  
-    
 nav a {
   color: #D0ECFA;
   background-color: #59072A;
@@ -30,7 +26,8 @@ div{
 }
 
   
-header{text-align: center;
+header {
+  text-align: center;
 }
 header h1{
 color :#D5E3EB;
