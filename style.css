@@ -119,10 +119,11 @@ div{
   border-radius: 34px;
   font-family: Courier New;
   color: #35f2cc;
-  font-size: 12px;
+  font-size: 9px;
   padding: 6px 7px 7px 6px;
   text-decoration: none;
-  width: 40px;
+  width: 12px;
+  height: 11;
 }
 
 .btn:hover {
