@@ -5,11 +5,15 @@ background-color: #FF7E66;
 a{ text-decoration: none;
 }
 footer{
-
-  background-color: #47231D;
-  box-sizing: border-box;
-  margin:0;
+        background-color: #47231D;
+        height: 150px;
+        text-align: center;
+      
+        padding: 50px;
+        box-sizing: border-box;
     }
+
+  
     
 nav a {
   color: #D0ECFA;
