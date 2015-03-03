@@ -55,11 +55,12 @@ margin-top: 210px;
 }
 
 footer{
-        background-color: #47231D;
+        background-color: #D5E3EB;
         height: 150px;
         text-align: center;
         padding: 50px;
         box-sizing: border-box;
+        margin: 0;
     }
 
 
