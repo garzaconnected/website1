@@ -25,7 +25,7 @@ nav a:hover{
 
 
   
-header {font-family: 'Alex-Brush',cursive;
+header {
   text-align: center;
 }
 header h1{
@@ -34,7 +34,9 @@ font-family: 'Poiret One', cursive;
 font-size: 55px;
 margin-right: 80px;
 margin-top: 150px;
-
+}
+.name h1{
+  font-family:'Alex-Brush',cursive;
 }
 header h2{
 color: #D5E3EB;
