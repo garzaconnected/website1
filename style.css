@@ -36,7 +36,8 @@ margin-right: 80px;
 margin-top: 200px;
 
 }
-header h2{
+header h2, 
+       h3{
 color: #D5E3EB;
 font-family: 'Poiret One', cursive;
 font-size:50px;
