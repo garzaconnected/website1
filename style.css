@@ -78,10 +78,10 @@ section p{
   background-color:#2E0224;
   font-family: 'Vollkorn', serif;
   font-size: 16px;
-  margin-top: 120px;
+  margin-top: 100px;
   margin-left:115px;
   padding: 15px;
-  width:200px;
+  width: 350px;
   display:inline-block;
   transition: 1s all;
 }
@@ -102,7 +102,7 @@ div{
 
 #logo{
        margin-left: 700px;
-       padding: -10px;
+    
 }
 
 
