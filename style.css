@@ -114,16 +114,16 @@ div{
   background-image: -ms-linear-gradient(top, #c7b7b3, #7d4b6c);
   background-image: -o-linear-gradient(top, #c7b7b3, #7d4b6c);
   background-image: linear-gradient(to bottom, #c7b7b3, #7d4b6c);
-  -webkit-border-radius: 34;
-  -moz-border-radius: 34;
-  border-radius: 34px;
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
   font-family: Courier New;
   color: #35f2cc;
   font-size: 9px;
   padding: 6px 7px 7px 6px;
   text-decoration: none;
-  width: 12px;
-  height: 11px;
+  width: 7px;
+  height: 5px;
 }
 
 .btn:hover {
