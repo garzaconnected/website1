@@ -66,7 +66,7 @@ footer{
 
 }
 
-section {
+section p{
   color: #D5E3EB;
   background-color:#2E0224;
   font-family: 'Vollkorn', serif;
@@ -80,14 +80,14 @@ section {
 }
 
 div img{
-  margin-left: 545px;
+  margin-left: 645px;
   margin-top: 40px;
 }
   
 
 div{
    color:#D5E3EB;
-   margin-top: px;
+   margin-top: 115px;
    margin-left: 300px;
    display: inline-block;
    
