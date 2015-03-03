@@ -107,16 +107,16 @@ div{
 }
 
 
-.btn {
+.btn h2 {
   background: #c7b7b3;
   background-image: -webkit-linear-gradient(top, #c7b7b3, #7d4b6c);
   background-image: -moz-linear-gradient(top, #c7b7b3, #7d4b6c);
   background-image: -ms-linear-gradient(top, #c7b7b3, #7d4b6c);
   background-image: -o-linear-gradient(top, #c7b7b3, #7d4b6c);
   background-image: linear-gradient(to bottom, #c7b7b3, #7d4b6c);
-  -webkit-border-radius: 15;
-  -moz-border-radius: 15;
-  border-radius: 15px;
+  -webkit-border-radius: 34;
+  -moz-border-radius: 34;
+  border-radius: 34px;
   font-family: Courier New;
   color: #35f2cc;
   font-size: 9px;
