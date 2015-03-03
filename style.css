@@ -163,7 +163,7 @@ div{
   
 table,{
    color: #DDC2C3;
-   border: 2px green;
+   border: 2px white;
    width: 100%;
    border-collapse: separated;
 
@@ -172,9 +172,9 @@ table,{
    
 }
 td{ background-color: green;
-padding: 15px;
+padding: 25px;
 }
-th{ height: 50px;
+th{ height: 60px;
 }
 
 
