@@ -171,7 +171,7 @@ table,{
    margin-left: 375px;
    
 }
-td{ background-color: indian red;
+td{ background-color: 'indian red';
 padding: 25px;
 }
 th{ height: 60px;
