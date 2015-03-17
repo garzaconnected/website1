@@ -130,7 +130,7 @@ div{
    display: inline-block;
    
 }
-#video{
+# video{
         margin: auto;
   
   ]
@@ -183,9 +183,9 @@ table,{
 }
 td{ 
   background-color: gray;
-  padding: 25px;
+  padding: 15px;
 }
-th{ height: 40px;
+th{ height: 30px;
 }
 
 
