@@ -185,11 +185,11 @@ iframe.resume{
 table{
    color: #DDC2C3;
    border: 2px white;
-   width: 100px;
-   border-collapse: 5px separated;
+   width: 50%;
+   border-collapse: 10px separated;
 
    margin-bottom: 500px;
-   margin-left: 400px;
+   margin-left: 600px;
    text-align:center;
    
 }
