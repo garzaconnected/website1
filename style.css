@@ -152,7 +152,7 @@ iframe.video{
 
 iframe.resume{
  
-   margin-left: 1200px;
+  align: center;
   margin-bottom: 300px;
   
 }
@@ -198,7 +198,7 @@ table{
    border: 2px white;
    width: 50%;
    border-collapse: 10px separated;
-  
+   align: center;
    margin-bottom: 500px;
    margin-left: 600px;
    text-align:center;
