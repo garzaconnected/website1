@@ -28,7 +28,11 @@ nav a:hover{
  background-color: #846778;
 }
 
-
+header,
+footer { 
+  margin-left: -10px;
+  margin-right: -10px;
+}
 
   
 header {
