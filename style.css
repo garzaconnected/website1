@@ -124,37 +124,11 @@ div img{
   padding: 5px;
 
    margin-left: 1060px;
-
- 
 }
 
-div.img{
+
+
   
-  margin: 2px;
-  border: 1 px solid #0000ff;
-  height: auto;
-  width: auto;
-  float: left;
-  text-align:center;
-}
-div. img img{
-  display: inline;
-  margin: 3px;
-  border: 1 px solid #ffffff;
-}
-
-div .img a:hover img { border: 1px solid #0000ff;
-}
-div. desc{
-  
-  text-align: center;
-  font-weight: normal;
-  width: 120 px;
-  margin: 2px;
-}
-  
-
-}  
 
 div{
    color:#D5E3EB;
@@ -227,11 +201,16 @@ table{
 td{ 
   background-color: gray;
   padding: 15px;
-  
-}
-th{ height: 30px;
 }
 
+th{ height: 30px;
+}
+main table{
+  width: 500 px;
+  margin: 0 auto;
+  align: center;
+  
+}
 
     
    
