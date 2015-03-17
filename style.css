@@ -182,14 +182,15 @@ iframe.resume{
 }
 
   
-table,{
+table{
    color: #DDC2C3;
-   border: 2px white;
+   border: 7px white;
    width: 100%;
-   border-collapse: separated;
+   border-collapse: 10px separated;
 
    margin-bottom: 300px;
    margin-left: 1200px;
+   text-align:center;
    
 }
 td{ 
