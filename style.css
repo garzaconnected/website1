@@ -130,9 +130,8 @@ div{
    display: inline-block;
    
 }
- div #video{
-        margin-right: 525px;
-        margin-left: 525px
+#video{
+        margin: auto;
   
   ]
 #logo{
