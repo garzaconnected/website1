@@ -184,18 +184,18 @@ iframe.resume{
   
 table{
    color: #DDC2C3;
-   border: 7px white;
+   border: 2px white;
    width: 100%;
-   border-collapse: 10px separated;
+   border-collapse: 5px separated;
 
-   margin-bottom: 300px;
-   margin-left: 1200px;
+   margin-bottom: 500px;
+   margin-left: 500px;
    text-align:center;
    
 }
 td{ 
   background-color: gray;
-  padding: 25px;
+  padding: 15px;
   
 }
 th{ height: 30px;
