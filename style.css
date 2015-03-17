@@ -130,8 +130,8 @@ div{
    display: inline-block;
    
 }
-iframe{ 
-  margin-left: 1060px;
+iframe.video{ 
+  margin-left: 1200px;
   
 }
 #logo{
