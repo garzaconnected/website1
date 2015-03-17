@@ -46,7 +46,7 @@ header {
   text-align: center;
 }
 header h1{
-color :#344C52;
+color :#241320;
 font-family: 'Poiret One', cursive;
 font-size: 45px;
 
@@ -55,7 +55,7 @@ margin-top: 100px;
 }
 
 h1{
-  color:#344C52;
+  color:#241320;
   font-family:'Alex Brush',cursive;
   font-size: 40px;
   margin-top: 100px;
@@ -63,7 +63,7 @@ h1{
 }
 
 header h2{
-color: #D5E3EB;
+color: #241320;
 font-family: 'Poiret One', cursive;
 font-size:50px;
 margin-bottom: 600px;
@@ -71,7 +71,7 @@ margin-bottom: 600px;
 }
 
 header h3{ 
-  color: #9E4C61;
+  color: #F5F5F5;
   font-family: 'Marck Script', cursive;
   font-size: 35px;
   margin-top: 200px;
