@@ -130,7 +130,10 @@ div{
    display: inline-block;
    
 }
-
+iframe{ 
+  margin-left: 1060px;
+  
+}
 #logo{
 
       margin-right: 525px;
