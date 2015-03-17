@@ -1,5 +1,5 @@
 body{
-  color: #D5E3EB;
+  color: #344C52;
 background-color: background: rgb(8, 50, 56);
 background: -moz-linear-gradient(270deg, rgb(8, 50, 56) 0%, rgb(254, 255, 255) 100%);
 background: -webkit-linear-gradient(270deg, rgb(8, 50, 56) 0%, rgb(254, 255, 255) 100%);
@@ -44,7 +44,7 @@ header {
   text-align: center;
 }
 header h1{
-color :#D5E3EB;
+color :#344C52;
 font-family: 'Poiret One', cursive;
 font-size: 45px;
 
@@ -53,7 +53,7 @@ margin-top: 100px;
 }
 
 h1{
-  color:#D5E3EB;
+  color:#344C52;
   font-family:'Alex Brush',cursive;
   font-size: 40px;
   margin-top: 100px;
