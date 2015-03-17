@@ -189,12 +189,13 @@ table,{
    border-collapse: separated;
 
    margin-bottom: 300px;
-   margin-left: 375px;
+   margin-left: 1200px;
    
 }
 td{ 
   background-color: gray;
-  padding: 15px;
+  padding: 25px;
+  
 }
 th{ height: 30px;
 }
