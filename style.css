@@ -145,13 +145,14 @@ div{
    
 }
 iframe.video{ 
-  margin-left: 1250px;
+  margin-left: 600px;
   margin-bottom: 100px;
   
 }
 
 iframe.resume{
-  margin-top: 300px;
+  margin-top: 200px;
+  margin-bottom: 400px;
   margin-right:600px;
   }
   
