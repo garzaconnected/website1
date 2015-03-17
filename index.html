@@ -1,6 +1,17 @@
 <!doctype html>
 <html>
 <head>
+<script>
+if(window.top==window){
+ //not inside iframe
+} else {
+    if(parent.parent.someFunction){
+       parent.parent.someFunction();
+    } else {
+       alert("framing is not allowed")
+    }
+}
+</script>
 <title>Olga Home Page</title>
 <link href='http://fonts.googleapis.com/css?family=Marck+Script' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Alex+Brush' rel='stylesheet' type='text/css'>
