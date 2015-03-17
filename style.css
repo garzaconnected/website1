@@ -201,6 +201,8 @@ td{
 th{ height: 30px;
 }
 
-
+div #gallery{
+   display: inline-block;
+}
     
    
