@@ -120,7 +120,9 @@ div img{
 
  
 }
-  
+#gallery{
+   display: inline-block;
+}  
 
 div{
    color:#D5E3EB;
@@ -201,8 +203,6 @@ td{
 th{ height: 30px;
 }
 
-div #gallery{
-   display: inline-block;
-}
+
     
    
