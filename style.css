@@ -83,9 +83,9 @@ header p{ margin-bottom: 300px;
 
 main table{
   width: 300 px;
-  margin: 0 auto;
-  align: center;
  
+  align: center;
+ margin top:-500px
   margin bottom: 300px;
   
 }
@@ -131,10 +131,10 @@ div img{
   
   padding: 5px;
 
-margin-top: 150px;
+margin-top: -728px;
 margin-bottom: 400px;
-  margin-left:200px;
-  marging-right:200px;
+  margin-left:581px;
+
 }
 
 
@@ -150,8 +150,8 @@ div{
    
 }
 iframe.video{ 
-  margin-left: 700px;
-  margin-bottom: 100px;
+  margin-left: 500px;
+  margin-bottom: 300px;
   
 }
 
