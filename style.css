@@ -87,13 +87,12 @@ header p{ margin-bottom: 300px;
 }
 
 main table{
+  
   width: 300 px;
  
   align: center;
- margin top:-500px
-  margin bottom: 300px;
-  
-}
+ margin: 200px;
+  }
 
 footer{
         background-color: #D5E3EB;
@@ -128,15 +127,7 @@ section p{
 
 div img{
  
-
-
-  
-  padding: 5px;
-
-margin-top: -500px;
-margin-bottom: 200px;
-  margin-left:450px;
-
+margin: 200px;
 }
 
 
@@ -145,21 +136,18 @@ margin-bottom: 200px;
 
 div{
    color:#D5E3EB;
-   margin-top: -500px;
-   margin-left: 300px;
+margin: ;
 
    display: inline-block;
    
 }
 iframe.video{ 
-  margin-left: 500px;
-  margin-top: 400px;
+  margin: 250px;
   
 }
 
 iframe.resume{
-  margin-top: -500px;
-  margin-left:700px;
+margin: 200px;
   }
   
 #logo{
@@ -200,8 +188,9 @@ iframe.resume{
 
   
 table{
+  
   color:white;
-  font
+  font-size: 20px;
 width: 1214px;
 margin:200px ;
 }
