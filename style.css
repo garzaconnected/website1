@@ -158,7 +158,7 @@ iframe.video{
 }
 
 iframe.resume{
-  margin-bottom: 500px;
+  margin-top: -500px;
   margin-left:700px;
   }
   
@@ -200,8 +200,10 @@ iframe.resume{
 
   
 table{
+  color:white;
+  font
 width: 1214px;
-margin: 0 auto;
+margin:200px ;
 }
 
 
