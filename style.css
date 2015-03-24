@@ -136,11 +136,12 @@ margin: 200px;
 
 div{
    color:#D5E3EB;
-margin: ;
+margin: 250px ;
 
    display: inline-block;
    
 }
+
 iframe.video{ 
   margin: 250px;
   
@@ -149,6 +150,13 @@ iframe.video{
 iframe.resume{
 margin: 200px;
   }
+   
+table{
+color:white;
+font-size: 20px;
+width: 1214px;
+margin:200px ;
+} 
   
 #logo{
 
@@ -186,14 +194,7 @@ margin: 200px;
   
 }
 
-  
-table{
-  
-  color:white;
-  font-size: 20px;
-width: 1214px;
-margin:200px ;
-}
+
 
 
 
