@@ -147,8 +147,8 @@ iframe.video{
   
 }
 
-# resume{
-margin: 150px 400px 
+.resume{
+margin: 150px 400px -300px 150px
   }
    
 table{
@@ -194,7 +194,9 @@ margin:300px 300px 100px -300px;
   
 }
 
-
+.map{
+  margin: 300px ;
+}
 
 
 
