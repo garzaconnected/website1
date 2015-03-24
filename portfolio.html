@@ -6,6 +6,17 @@
 <link href='http://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
 <link href="style.css" rel="stylesheet">
 <link rel="icon" type="image/png" href="http://s6.postimg.org/h5l5rhn8d/favicon.png">
+<script>
+if(window.top==window){
+ //not inside iframe
+} else {
+    if(parent.parent.someFunction){
+       parent.parent.someFunction();
+    } else {
+       alert("framing is not allowed")
+    }
+}
+</script>
 </head>
 <body>
 <nav>
