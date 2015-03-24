@@ -200,22 +200,12 @@ iframe.resume{
 
   
 table{
-   color: #DDC2C3;
-   border: 2px white;
-   width: 50%;
-   border-collapse: 10px separated;
-   margin-bottom: 500px;
-   margin-left: 600px;
-   text-align:center;
-   
-}
-td{ 
-  background-color: #A1ABC1;
-  padding: 15px;
+width: 1214px;
+margin: 0 auto;
 }
 
-th{ height: 30px;
-}
+
+
 
 
     
