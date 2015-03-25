@@ -110,8 +110,10 @@ div{
 
 
 iframe #resume{
-margin: 150px 400px -300px 150px
-  }
+margin: 100 auto -400 auto;
+  
+  
+}
    
 table{
 color:white;
