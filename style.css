@@ -97,7 +97,7 @@ main table{
   color: #1C021F;
   margin-top: -300px;
 }
-a #flower{
+#flower{
   margin-top: -600px;
     margin-right: 300px;
        margin-left: -300px;
@@ -158,7 +158,7 @@ div{
 }
 
 iframe.video{ 
-  margin: 200px 400px -500px 500px;
+  margin: 300px;
   
 }
 
