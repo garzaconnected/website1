@@ -93,7 +93,10 @@ main table{
   align: center;
  margin: 200px;
   }
-
+#contact{
+  color: #1C021F;
+  margin-top: -300px;
+}
 footer{
         background-color: #D5E3EB;
         height: 150px;
