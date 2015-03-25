@@ -82,16 +82,12 @@ header h3{
   margin-top: 200px;
 }
 
-header p{ margin-bottom: 300px;
-         font-size: 18px;
-}
-
 main table{
   
   width: 300 px;
  
   align: center;
- margin: 200px;
+  margin: 200px;
   }
 
 #flower{
@@ -109,15 +105,15 @@ footer{
         box-sizing: border-box;
       
       
-    }
-#features{
+    }  
+    
+#features {
 background-image: none;
 background-color: #0097a7;
 height: 250px;
 padding: 50px;
 box-sizing: border-box;
 }
-
 
 section p{
   
@@ -135,25 +131,19 @@ section p{
   transition: 1s all;
 }
 
-div img{
+.img{
  
-margin: 0 auto 0 auto;
+margin: 150 auto -300 auto;
 }
 
-
-
-  
-
 div{
-   color:#D5E3EB;
-   margin: 250px ;
-
+   color:#D5E3EB
    display: inline-block;
    
 }
 
-iframe.video{ 
-  margin: 300px;
+#video{ 
+  margin: 200px;
   
 }
 
