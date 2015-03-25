@@ -96,9 +96,9 @@ section p{
   transition: 1s all;
 }
 
- div .img{
+ #img{
  
-margin: 100 auto 100 auto;
+margin: 100- auto 100 auto;
 }
 
 div{
