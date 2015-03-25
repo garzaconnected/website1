@@ -163,6 +163,23 @@ margin:300px 300px 100px -300px;
 }
 
 
+
+#map{
+  margin= 0 auto 0 auto;
+  
+}
+
+section .contactinf{
+  
+  margin-bottom: px;
+}
+
+#video{ 
+  margin: 200px;
+  
+}
+
+ 
 .button {
   background: 1px #c7b7b3;
   background-image: -webkit-linear-gradient(top, #c7b7b3, #7d4b6c);
@@ -189,22 +206,5 @@ margin:300px 300px 100px -300px;
   background-image: -o-linear-gradient(top, #cccddb, #4c6270);
   background-image: linear-gradient(to bottom, #cccddb, #4c6270);
   
-}
-
-#map{
-  margin= 0 auto 0 auto;
-  
-}
-
-section .contactinf{
-  
-  margin-bottom: px;
-}
-
-#video{ 
-  margin: 200px;
-  
-}
-
-    
+}   
    
