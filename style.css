@@ -133,7 +133,7 @@ section p{
 
 .img{
  
-margin: 150 auto -300 auto;
+margin: -300 auto -300 auto;
 }
 
 div{
@@ -142,10 +142,7 @@ div{
    
 }
 
-#video{ 
-  margin: 200px;
-  
-}
+
 
 .resume{
 margin: 150px 400px -300px 150px
@@ -204,7 +201,10 @@ section .contactinf{
   margin-bottom: px;
 }
 
-
+#video{ 
+  margin: 200px;
+  
+}
 
     
    
