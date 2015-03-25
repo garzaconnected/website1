@@ -205,8 +205,10 @@ margin:300px 300px 100px -300px;
   
 }
 
-.map{
-  margin: 300px ;
+#map{
+  margin-top= 512px;
+  margin-bottom= -353px;
+  
 }
 
 
