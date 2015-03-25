@@ -93,14 +93,9 @@ main table{
   align: center;
  margin: 200px;
   }
-#contact{
-  color: #1C021F;
-  margin-top: -300px;
-}
+
 #flower{
-  margin-top: -600px;
-    margin-right: 300px;
-       margin-left: -300px;
+ margin: 0 auto 0 auto;
   
   
 }
