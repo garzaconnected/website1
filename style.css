@@ -97,7 +97,7 @@ main table{
   color: #1C021F;
   margin-top: -300px;
 }
-#flower{
+a #flower{
    margin-right: 169px;
        margin-left: 20px;
   
@@ -147,7 +147,7 @@ margin: 200px;
 
 div{
    color:#D5E3EB;
-margin: 250px ;
+   margin: 250px ;
 
    display: inline-block;
    
