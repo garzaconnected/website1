@@ -132,9 +132,10 @@ section p{
   font-size: 16px;
   margin-top: 100px;
   margin-left:115px;
-  padding: 30px;
+  padding: 15px;
   width: 200px;
   display:block;
+  border-collapse: collapse;
   
   transition: 1s all;
 }
