@@ -99,14 +99,12 @@ section p{
   padding: 15px;
   width: 200px;
   display: inline-block;
-
-  
   transition: 1s all;
 }
 
  div .img{
  
-margin: -300 auto -300 auto;
+margin: 100 auto 100 auto;
 }
 
 div{
@@ -117,7 +115,7 @@ div{
 
 
 
-.resume{
+iframe #resume{
 margin: 150px 400px -300px 150px
   }
    
