@@ -97,15 +97,7 @@ main table{
 }
 
 
-footer{
-        background-color: #D5E3EB;
-        height: 150px;
-        text-align: center;
-        padding: 50px;
-        box-sizing: border-box;
-      
-      
-    }  
+  
     
 #features {
 background-image: none;
@@ -207,4 +199,12 @@ section .contactinf{
   background-image: linear-gradient(to bottom, #cccddb, #4c6270);
   
 }   
-   
+ footer{
+        background-color: #D5E3EB;
+        height: 150px;
+        text-align: center;
+        padding: 50px;
+        box-sizing: border-box;
+      
+      
+    }  
