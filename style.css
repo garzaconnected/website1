@@ -210,11 +210,14 @@ margin:300px 300px 100px -300px;
 
 #map{
   margin-left= -200px;
-  margin-bottom= -353px;
+
   
 }
 
-
+section .contactinf{
+  
+  margin-bottom: 100px;
+}
 
 
 
