@@ -72,10 +72,10 @@ header h3{
 h4{
   color: #321440;
 font-family: 'Poiret One', cursive;
-font-size:40 px;
-border: 10px #001C30; 
-border-radius: 30px;
-border-box: 37px;
+font-size: 45px;
+border: 45px #001C30; 
+border-radius: 7px;
+border-box: 47px;
 display: inline-block;
   background-color: 1px #c7b7b3;
   background-image: -webkit-linear-gradient(top, #c7b7b3, #7d4b6c);
@@ -83,8 +83,8 @@ display: inline-block;
   background-image: -ms-linear-gradient(top, #c7b7b3, #7d4b6c);
   background-image: -o-linear-gradient(top, #c7b7b3, #7d4b6c);
   background-image: linear-gradient(to bottom, #c7b7b3, #7d4b6c);
-  -webkit-border-radius:10px;
-  -moz-border-radius:10px;;
+  -webkit-border-radius:7px;
+  -moz-border-radius: 7px;
 }
 
 
