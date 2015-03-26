@@ -13,8 +13,7 @@ margin:0;
 }
 header,
 footer{
-  margin-top:fixed;
-  margin-bottom:fixed;
+
   margin-left:-10px;
   margin-right:-10px;
 }
@@ -52,7 +51,7 @@ header h2{
 color: #321440;
 font-family: 'Poiret One', cursive;
 font-size:50px;
-margin-top:200 px;
+margin-top:150 px;
 }
 
 h1{
@@ -152,8 +151,7 @@ margin-bottom: 300px;
 .pic{
  margin-top:150px;
  margin-left:400px;
- margin-right:-800px;
-  
+ margin-right:300px;
 }
 
 .map{
@@ -164,9 +162,9 @@ margin-right:-800px;
 }
 
 section .contactinf{
-  margin-left:300px;
-  margin-right: -500px;
-  margin-bottom: 100px;
+  margin-left:400px;
+
+  margin-bottom: 200px;
 }
 
 
