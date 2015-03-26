@@ -141,8 +141,9 @@ section .contactinf{
   margin-bottom: 100px;
 }
 
- #video{ 
-  margin-bottom: 200px;
+ .video{ 
+  margin-bottom: 300px;
+  margin-left: 300px;
   
 }
 
