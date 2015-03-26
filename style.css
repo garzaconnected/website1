@@ -87,10 +87,11 @@ display:block;
   -webkit-border-radius:7px;
   -moz-border-radius: 7px;
   margin-top: 150px;
-  width:200px;
+  margin-left: 400px;
+  width:300px;
   padding: 6px 7px 7px 6px;
   text-decoration: none;
-  vertical-align: middle;
+
   
   
 }
