@@ -96,12 +96,11 @@ display:block;
 
 
 
-main table{
+main{
   
   width: 300 px;
- 
   align: center;
-  margin: 200px;
+  margin-left 400px;
   }
 
 
@@ -130,7 +129,7 @@ section p{
 
  .resume{
 margin-left: 400px;
-  margin-top:100px;
+  margin-top:80px;
 }
    
 .table{
