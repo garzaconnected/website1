@@ -92,18 +92,8 @@ display:block;
   width:300px;
   padding: 6px 7px 7px 6px;
   text-decoration: none;
-
-  
-  
 }
 
-#about{
-
-margin-left: 500px;
-
-
-
-}
 
 
 main table{
@@ -178,10 +168,15 @@ section .contactinf{
 }
 
 
- .video{ 
-  margin-left:300px;
+#about{
 
-  margin-bottom: 250px;
+margin-left: 500px;
+
+}
+ .video{ 
+  margin-left:450px;
+
+  margin-top:375px;
   
 }
 
