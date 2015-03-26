@@ -74,7 +74,7 @@ main table{
   margin: 200px;
   }
 
-div .pic{
+.pic{
  margin: 200px;
   
   
@@ -137,8 +137,8 @@ margin:300px 300px 100px -300px;
 }
 
 section .contactinf{
-  
-  margin-bottom: px;
+  margin-left:300px;
+  margin-bottom: 100px;
 }
 
  #video{ 
