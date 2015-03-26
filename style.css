@@ -130,7 +130,7 @@ section p{
 
  .resume{
 margin-left: 400px;
-  margin-top:140px;
+  margin-top:100px;
 }
    
 .table{
@@ -138,7 +138,8 @@ color:white;
 font-size: 20px;
 width: 1500px;
 margin-left: 200px;
-margin-top:175px;
+margin-top:150px;
+margin-bottom: 300px;
 
 } 
   
