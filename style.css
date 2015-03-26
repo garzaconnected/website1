@@ -110,7 +110,7 @@ div{
 
 
  #resume{
-margin: 100 auto -400 auto;
+margin: 0 auto 0 auto;
   
 }
    
@@ -147,13 +147,7 @@ section .contactinf{
   margin-right: -500px;
   margin-bottom: 100px;
 }
-.aboutp{
-  
-  margin-top:300px;
-  margin-right:300px;
-  margin-left:-400px;
-  
-}
+
 
  .video{ 
   margin-left:200px;
