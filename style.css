@@ -170,13 +170,14 @@ section .contactinf{
 
 #about{
 
-margin-left: 500px;
+margin-left: 490px;
 
 }
  .video{ 
   margin-left:380px;
 
-  margin-top:375px;
+  margin-top:300px;
+  margin-bottom:250px;
   
 }
 
