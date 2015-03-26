@@ -74,16 +74,17 @@ h4{
 font-family: 'Poiret One', cursive;
 font-size:40 px;
 border: 9px #001C30; 
-border-radius: 8px;
-border-box: 7 px;
+border-radius: 10px;
+border-box: 15 px;
+display: block;
   background-color: 1px #c7b7b3;
   background-image: -webkit-linear-gradient(top, #c7b7b3, #7d4b6c);
   background-image: -moz-linear-gradient(top, #c7b7b3, #7d4b6c);
   background-image: -ms-linear-gradient(top, #c7b7b3, #7d4b6c);
   background-image: -o-linear-gradient(top, #c7b7b3, #7d4b6c);
   background-image: linear-gradient(to bottom, #c7b7b3, #7d4b6c);
-  -webkit-border-radius:8px;
-  -moz-border-radius:8px;;
+  -webkit-border-radius:10px;
+  -moz-border-radius:10px;;
 }
 
 
