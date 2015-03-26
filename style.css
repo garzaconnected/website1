@@ -76,7 +76,15 @@ font-size:35 px;
 border: 3px #001C30; 
 padding: 10px;
 border-radius: 4px;
-  
+border-box: 15 px;
+  background: 1px #c7b7b3;
+  background-image: -webkit-linear-gradient(top, #c7b7b3, #7d4b6c);
+  background-image: -moz-linear-gradient(top, #c7b7b3, #7d4b6c);
+  background-image: -ms-linear-gradient(top, #c7b7b3, #7d4b6c);
+  background-image: -o-linear-gradient(top, #c7b7b3, #7d4b6c);
+  background-image: linear-gradient(to bottom, #c7b7b3, #7d4b6c);
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;;
 }
 
 
