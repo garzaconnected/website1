@@ -86,7 +86,8 @@ display:block;
   background-image: linear-gradient(to bottom, #c7b7b3, #7d4b6c);
   -webkit-border-radius:7px;
   -moz-border-radius: 7px;
-  margin-top: 300px;
+  margin-top: 150px;
+  width:300px;
 }
 
 
