@@ -99,7 +99,7 @@ display:block;
 
 #about{
 
-margin-left: 480px;
+margin-left: 500px;
 
 
 
@@ -132,16 +132,9 @@ section p{
   transition: 1s all;
 }
 
- {
- 
-margin: 200 auto 100 auto;
-}
 
-div{
-   color:#D5E3EB
-   display: inline-block;
-   
-}
+
+
 
 
 
@@ -186,9 +179,9 @@ section .contactinf{
 
 
  .video{ 
-  margin-left:200px;
-  margin-right: -600px;
-  margin-top: 500px;
+  margin-left:300px;
+
+  margin-bottom: 250px;
   
 }
 
