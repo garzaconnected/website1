@@ -124,12 +124,17 @@ margin:300px 300px 100px -300px;
     
 }
 
-
+.pic{
+ margin-top:150px;
+ margin-left:400px;
+ margin-right:-800px;
+  
+}
 
 .map{
-margin-top: 400px;
-margin-left: 300px;
-margin-right:-500px;
+margin-top: 300px;
+margin-left: 400px;
+margin-right:-800px;
   
 }
 
@@ -139,12 +144,7 @@ section .contactinf{
   margin-bottom: 100px;
 }
 
-.pic{
- margin-top:200px;
-margin-left:300px;
- margin-right:-500px;
-  
-}
+
  .video{ 
   margin-left:300px;
   margin-right: -500px;
