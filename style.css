@@ -76,7 +76,7 @@ font-size: 30px;
 border: 3px #001C30; 
 border-radius: 7px;
 border-box: 39px;
-display: inline-block;
+display:block;
 
   background-color: 1px #c7b7b3;
   background-image: -webkit-linear-gradient(top, #c7b7b3, #7d4b6c);
