@@ -143,7 +143,10 @@ section .contactinf{
   margin-right: -500px;
   margin-bottom: 100px;
 }
-
+.aboutp{
+  margin-right:40%;
+  
+}
 
  .video{ 
   margin-left:300px;
