@@ -129,25 +129,26 @@ margin:300px 300px 100px -300px;
 .map{
 margin-top: 400px;
 margin-left: 300px;
-margin-right:-300px;
+margin-right:-500px;
   
 }
 
 section .contactinf{
   margin-left:300px;
-  margin-right: -400px;
+  margin-right: -500px;
   margin-bottom: 100px;
 }
 
 .pic{
  margin-top:200px;
 margin-left:300px;
- margin-right:-200px;
+ margin-right:-500px;
   
 }
  .video{ 
-  margin-top: 300px;
-  margin-left: 200px;
+  margin-left:300px;
+  margin-right: -500px;
+  margin-bottom: 300px;
   
 }
 
