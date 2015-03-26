@@ -129,15 +129,18 @@ section p{
 
 
  .resume{
-margin-left: 300px;
-  margin-top:250px;
+margin-left: 400px;
+  margin-top:200px;
 }
    
 table{
 color:white;
-font-size: 20px;
+font-size: 25px;
 width: 1214px;
-margin:300px 300px 100px -300px;
+margin-left: 400px;
+margin-top:250px;
+display: inline-block;
+  
 } 
   
 #logo{
