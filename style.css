@@ -11,6 +11,8 @@ background: linear-gradient(0deg, rgb(0, 29, 56) 0%, rgb(254, 255, 255) 100%);
 }
 header,
 footer{
+  margin-top:fixed;
+  margin-bottom:fixed;
   margin-left:-10px;
   margin-right:-10px;
 }
