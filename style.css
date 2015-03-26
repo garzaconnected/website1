@@ -145,15 +145,15 @@ section .contactinf{
 }
 .aboutp{
   margin-top:250px;
-  margin-right:400px;
-  margin-left:-600px;
+  margin-right:300px;
+  margin-left:-400px;
   
 }
 
  .video{ 
-  margin-left:300px;
+  margin-left:200px;
   margin-right: -600px;
-  margin-bottom: 300px;
+  margin-top: 500px;
   
 }
 
