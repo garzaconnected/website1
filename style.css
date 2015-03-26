@@ -87,7 +87,12 @@ display:block;
   -webkit-border-radius:7px;
   -moz-border-radius: 7px;
   margin-top: 150px;
-  width:300px;
+  width:200px;
+  padding: 6px 7px 7px 6px;
+  text-decoration: none;
+  vertical-align: middle;
+  
+  
 }
 
 
@@ -133,8 +138,8 @@ div{
 
 
  #resume{
-margin: 0 auto 0 auto;
-  
+margin-left: 300px;
+  margin-top:250px;
 }
    
 table{
