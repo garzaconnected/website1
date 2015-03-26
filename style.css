@@ -134,12 +134,14 @@ margin-left: 200 px;
 
 section .contactinf{
   margin-left:300px;
+  margin-right: -200px;
   margin-bottom: 100px;
 }
 .pic{
 
   margin-top:200px;
   margin-left:300px;
+  margin-right:-200px;
   
 }
  .video{ 
