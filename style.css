@@ -95,8 +95,10 @@ display:block;
 }
 
 
-
-main{
+ .ptable{
+   margin-left: 400px;
+   
+ }
   
   width: 300 px;
   align: center;
