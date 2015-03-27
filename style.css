@@ -136,7 +136,7 @@ section p{
   transition: 1s all;
   background-color: #1F617F;
   border-box: 3px;
-  border-radius: 5px;
+  border-radius: 10px;
   text-align: center;
 }
 
