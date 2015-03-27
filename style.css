@@ -149,7 +149,7 @@ margin-bottom: 300px;
 }
 
 .map{
-margin-top: 300px;
+margin-top: -300px;
 margin-left: 500px;
 margin-botttom: 150px;
 }
@@ -220,12 +220,7 @@ box-sizing: border-box;
 }
 .pen{
 
-  
   margin-top: -400px;
  
-  
-  
-  
-  
 }
 
