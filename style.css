@@ -23,7 +23,8 @@ header {
   text-align: center;
 }
 
-a{ text-decoration: none;
+a{ 
+  text-decoration: none;
 }
 
 nav a {
@@ -130,16 +131,7 @@ section p{
   margin-top:80px;
 }
    
-.table{
-color:white;
-font-family:'Poiret One', cursive;
-font-size: 20px;
-width: 500px;
-margin-left: 400px;
-margin-top:150px;
-margin-bottom: 300px;
-
-} 
+ 
 
   
 #logo{
