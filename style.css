@@ -97,7 +97,7 @@ display:block;
   -moz-border-radius: 7px;
   margin-top: 150px;
 
-  margin-left: 600px;
+  margin-left: 450px;
 
   width:300px;
   padding: 6px 7px 7px 6px;
@@ -191,10 +191,7 @@ margin-top: 150px;
   margin-bottom: 250px;
   
 }
-.text{
-  
-  margin-left: 400px;
-}
+
  
 .button {
   background: 1px #c7b7b3;
