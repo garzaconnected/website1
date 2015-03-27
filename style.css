@@ -127,7 +127,7 @@ section p{
   font-family: 'Poiret One', cursive ;
   font-size: 16px;
   margin-top: 100px;
-  margin-left:30px;
+  margin-left:15px;
   margin-right: 0px;
   padding: 15px;
   width: 200px;
@@ -135,6 +135,7 @@ section p{
   transition: 1s all;
   background-color: #1F617F;
   border-box: 3px;
+  text-align: center;
 }
 
 
