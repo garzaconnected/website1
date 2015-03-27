@@ -110,9 +110,10 @@ display:block;
   
  }
 .table{
-  margin-left: 400px;
+  font-family: 'Alex Brush',cursive;
+  margin-left: 500px;
   color: white;
-  margin-bottom: 200px;
+  margin-bottom: 300px;
   
 }
 
@@ -131,22 +132,23 @@ section p{
 }
 
 
- .resume{
+ .resume {
+
   margin-left: 400px;
   margin-top:80px;
 }
-   
+
  
 
   
 #logo{
 
-      margin-right: 525px;
+       margin-right: 525px;
        margin-left: 525px;
-    
 }
 
 .pic{
+  
  margin-top: 100px;
  margin-left: 475px;
 
@@ -171,7 +173,7 @@ margin-left: 490px;
 
 }
  .video{ 
-   
+  
   margin-left: 380px;
   margin-top: 300px;
   margin-bottom: 250px;
@@ -212,9 +214,8 @@ margin-left: 490px;
         text-align: center;
         padding: 50px;
         box-sizing: border-box;
-      
-      
     }  
+    
 #features {
 background-image: none;
 background-color: #0097a7;
