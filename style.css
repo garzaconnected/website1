@@ -60,7 +60,7 @@ header h2{
 color: #321440;
 font-family: 'Poiret One', cursive;
 font-size:50px;
-margin-top: 100px;
+margin-top: 80px;
 }
 
 h1{
@@ -104,14 +104,18 @@ display:block;
   text-decoration: none;
   
 }
-
+h5{
+  font-size:17px;
+  font-family:'Poiret One', cursive;
+  
+}
 
  .ptable{
 
   
   width: 600px;
   text-align: center;
-  margin-top: 150px;
+  margin-top: -150px;
   margin-bottom: 300px;
   margin-left:37%;
 
