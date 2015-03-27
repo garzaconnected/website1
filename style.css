@@ -97,6 +97,7 @@ display:block;
   width:300px;
   padding: 6px 7px 7px 6px;
   text-decoration: none;
+  
 }
 
 
@@ -109,6 +110,7 @@ display:block;
   margin-bottom: 400px;
   
  }
+ 
 .table{
   
   font-family:'Poiret One', cursive ;
@@ -122,7 +124,6 @@ display:block;
 section p{
   
   color: #D5E3EB;
-  background-color:#;
   font-family: 'Vollkorn', serif;
   font-size: 16px;
   margin-top: 100px;
@@ -162,10 +163,17 @@ margin-left: 480px;
 margin-bottom: 250px;
 }
 
-#contactinf{
+#contactinf {
+  
+  color: #141934;
+  color-background: #7EA1B4;
+  border-radius: 3px;
+  text-align: center;
   margin-left:200px;
   margin-top: -300px;
   margin-bottom: 90px;
+  border-box: 6px;
+  
 }
 
 
@@ -174,6 +182,7 @@ margin-bottom: 250px;
 margin-left: 490px;
 
 }
+
  .video{ 
   
   margin-left: 380px;
