@@ -158,12 +158,14 @@ section p{
   
  margin-top: 100px;
  margin-left: 475px;
+ margin-right: 475px;
 
 }
 
 .map{
 margin-top: 200px;
-margin-left: 500px;
+margin-left: 350px;
+margin-right: 350px;
 margin-bottom: 200px;
 }
 
