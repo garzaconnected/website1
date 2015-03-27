@@ -110,11 +110,12 @@ display:block;
   
  }
 .table{
-  font-family: 'Alex Brush',cursive;
+  
+  font-family:'Poiret One', cursive ;
   margin-left: 500px;
   color: white;
   margin-bottom: 300px;
-  
+  width: 500px;
 }
 
 section p{
