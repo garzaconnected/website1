@@ -11,18 +11,21 @@ background: linear-gradient(0deg, rgb(0, 29, 56) 0%, rgb(254, 255, 255) 100%);
 margin:0;
   
 }
+
 header,
 footer{
 
   margin-left:-10px;
   margin-right:-10px;
 }
+
 header {
   text-align: center;
 }
 
 a{ text-decoration: none;
 }
+
 nav a {
   color: #D0ECFA;
   background-color: #4E7382;
@@ -33,6 +36,7 @@ nav a {
   transition: 1s all;
   border-box: 5px;
 }
+
 nav a:hover{ 
              background-color:#605D82;
 }
@@ -95,11 +99,13 @@ display:block;
 
 
  .ptable{
-   margin-left: 400px;
+   
+  margin-left: 400px;
   width: 300 px;
-  align: center;
+  text-align: center;
   margin-top: 300px;
-  margin=bottom: 400px;
+  margin-bottom: 400px;
+  
  }
 
 
@@ -168,9 +174,9 @@ margin-left: 490px;
 }
  .video{ 
    
-  margin-left:380px;
-  margin-top:300px;
-  margin-bottom:250px;
+  margin-left: 380px;
+  margin-top: 300px;
+  margin-bottom: 250px;
   
 }
 
@@ -218,6 +224,7 @@ height: 250px;
 padding: 50px;
 box-sizing: border-box;
 }
+
 .pen{
 
   margin-top: -400px;
