@@ -143,16 +143,15 @@ margin-bottom: 300px;
 }
 
 .pic{
- margin-top: -300px;
- margin-left: 350px;
+ margin-top: 300px;
+ margin-left: 450px;
 
 }
 
 .map{
 margin-top: 300px;
 margin-left: 500px;
-
-  
+margin-botttom: 150px;
 }
 
 #contactinf{
