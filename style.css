@@ -184,7 +184,17 @@ margin-left: 43%;
 margin-top:120px;
 
 }
+#textolga{
+  font-size: 16px;
 
+background-color: #0097a7;
+height: 250px;
+padding: 50px;
+box-sizing: border-box;
+  
+  
+  
+}
  .video{ 
   margin-left:36%;
   margin-top: 300px;
