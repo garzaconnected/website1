@@ -151,12 +151,6 @@ section p{
 
  
 
-  
- div logo{
-
-      
-}
-
 .pic{
   
  margin-top: 70px;
@@ -197,7 +191,10 @@ margin-top: 150px;
   margin-bottom: 250px;
   
 }
-
+.text{
+  
+  margin-left: 400px;
+}
  
 .button {
   background: 1px #c7b7b3;
