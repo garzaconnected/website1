@@ -97,8 +97,8 @@ display:block;
   -moz-border-radius: 7px;
   margin-top: 150px;
 
-  margin-left: 40%;
-
+  margin:auto;%;
+  text-align: center;
   width:300px;
   padding: 6px 7px 7px 6px;
   text-decoration: none;
