@@ -128,21 +128,7 @@ h6{
 
  }
 
-section p{
-  
-  color: #EFF7EA;
-  font-family: 'Poiret One', cursive ;
-  font-size: 14px;
-  margin-top: 200px;
-  padding: 15px;
-  width: 200px;
-  display: inline-block;
-  transition: 1s all;
-  background-color: #1F617F;
-  border-box: 3px;
-  border-radius: 20px;
-  text-align: center;
-}
+
 
 
  .resume {
