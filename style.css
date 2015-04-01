@@ -131,8 +131,8 @@ h5{
   font-family:'Poiret One', cursive ;
   color: white;
   margin-bottom: 200px;
-  width: 50%;
-  margin: auto;
+  width:450px;
+  margin-left: 45%;
   text-align: center;
 }
 
@@ -155,8 +155,8 @@ section p{
 
  .resume {
 
-  margin-top:80px;
-  margin-left: 45%;
+  margin-top:60px;
+  margin-left: 37%%;
  text-align:center;
   
 }
@@ -173,8 +173,7 @@ text-align: center;
 .map{
   
 margin-top: 150px;
-margin: auto;
-text-align: center;
+margin-left:37%;
 }
 
 #contactinf {
@@ -183,8 +182,9 @@ text-align: center;
   border-radius: 3px;
   text-align: center;
   margin: auto;
-  margin-top: -200px;
+  margin-top: -100px;
   margin-bottom: 40px;
+  width: 400px;
 
   
 }
@@ -204,7 +204,7 @@ font-size: 16px;
 }
  .video{ 
   text-align: center; 
-  margin: auto;
+  margin-left: 37%;
   margin-top: 200px;
   
 }
