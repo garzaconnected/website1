@@ -97,7 +97,7 @@ display:block;
   -moz-border-radius: 7px;
   margin-top: 150px;
 
-  margin:auto;%;
+  margin:auto;
   text-align: center;
   width:300px;
   padding: 6px 7px 7px 6px;
@@ -117,9 +117,12 @@ h5{
   text-align: center;
 
   margin-bottom: 400px;
-  margin-left: 36%;
-  margin-right: 36%;
+  margin: auto;
+
+text-align: center;
+
  }
+ 
  
 .table{
   
@@ -128,8 +131,8 @@ h5{
   color: white;
   margin-bottom: 300px;
   width: 500px;
-  margin-left: 43%;
-
+  margin: auto;
+  text-align: center;
 }
 
 section p{
@@ -152,7 +155,9 @@ section p{
  .resume {
 
   margin-top:80px;
-  margin-left: 38%;
+  margin: auto;
+  text-align: center;
+  
 }
 
  
