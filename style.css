@@ -131,8 +131,7 @@ h5{
   font-family:'Poiret One', cursive ;
   color: white;
   margin-bottom: 200px;
-  width:450px;
-  margin-left: 45%;
+  margin: auto;
   text-align: center;
 }
 
@@ -156,7 +155,7 @@ section p{
  .resume {
 
   margin-top:60px;
-  margin-left: 37%;
+  margin-left: 43%;
  text-align:center;
   
 }
