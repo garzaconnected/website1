@@ -21,7 +21,7 @@ footer{
   margin-right:-10px;
 }
  footer{
-   margin-top:500px;
+   margin-top:300px;
    
  }
 
@@ -120,11 +120,8 @@ h5{
   
   width: 600px;
   text-align: center;
-
-  margin-bottom: 35%;
   margin: auto;
-
-text-align: center;
+  text-align: center;
 
  }
  
@@ -170,8 +167,8 @@ section p{
 .pic{
   
  margin-top: 70px;
- margin-left: 43%;
-
+ margin: auto;
+text-alig: center;
 }
 
 .map{
@@ -179,17 +176,16 @@ section p{
 margin-top: 150px;
 
 margin-bottom: 200px;
-margin-left: 34%;
-
+margin: auto;
+text-align: center;
 }
 
 #contactinf {
   
   color: #141934;
- 
   border-radius: 3px;
   text-align: center;
-
+  margin: auto;
   margin-top: -300px;
   margin-bottom: 90px;
 
@@ -198,7 +194,9 @@ margin-left: 34%;
 
 
 #about{
-margin-left: 43%;
+  
+text-align: center;
+margin: auto;
 margin-top:120px;
 
 }
@@ -208,7 +206,8 @@ margin-top:120px;
 font-size: 16px;
 }
  .video{ 
-  margin-left:36%;
+  text-align: center; 
+  margin: auto;
   margin-top: 300px;
   margin-bottom: 250px;
   
