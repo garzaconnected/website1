@@ -20,6 +20,11 @@ footer{
   margin-left:-10px;
   margin-right:-10px;
 }
+ footer{
+   margin-top:500px;
+   
+ }
+
 
 header {
   text-align: center;
