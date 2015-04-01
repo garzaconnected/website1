@@ -13,7 +13,7 @@ text-align: center;
 
   
 }
-nav a {
+.nav a {
   color: #D0ECFA;
   background-color: #4E7382;
   border-radius: 2px;
@@ -24,7 +24,7 @@ nav a {
   border-box: 5px;
 }
 
-nav a:hover{ 
+.nav a:hover{ 
              background-color:#605D82;
 }
 
