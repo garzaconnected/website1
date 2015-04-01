@@ -129,10 +129,9 @@ h5{
 .table{
   
   font-family:'Poiret One', cursive ;
-  margin-left: 500px;
   color: white;
-  margin-bottom: 300px;
-  width: 500px;
+  margin-bottom: 200px;
+  width: 50%;
   margin: auto;
   text-align: center;
 }
@@ -168,15 +167,15 @@ section p{
   
  margin-top: 70px;
  margin: auto;
-text-alig: center;
+text-align: center;
 }
 
 .map{
   
 margin-top: 150px;
 
-margin-bottom: 200px;
-margin: auto;
+margin-bottom: 60px;
+margin-left: auto;
 text-align: center;
 }
 
@@ -186,8 +185,8 @@ text-align: center;
   border-radius: 3px;
   text-align: center;
   margin: auto;
-  margin-top: -300px;
-  margin-bottom: 90px;
+  margin-top: -200px;
+  margin-bottom: 40px;
 
   
 }
