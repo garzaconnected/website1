@@ -111,7 +111,8 @@ display:block;
   text-decoration: none;
   
 }
-h5{
+h5,
+h6{
   font-size:17px;
   font-family:'Poiret One', cursive;
   
@@ -180,12 +181,9 @@ margin-left:43%;
   color: #141934;
   border-radius: 3px;
   text-align: center;
-  margin-left: 30%;
   margin-bottom: 40px;
   width: 300px;
   display: inline-block
-
-  
 }
 
 
