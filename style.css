@@ -134,9 +134,8 @@ h6{
  .resume {
 
   margin-top: 60px;
-  margin-left: 42%;
- 
   text-align:center;
+  
   
 }
 
@@ -163,7 +162,7 @@ margin-left:43%;
 }
 
 .contactinf {
-  
+  margin: auto;
   color: #141934;
   border-radius: 3px;
   text-align: center;
