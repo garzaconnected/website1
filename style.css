@@ -55,6 +55,12 @@ footer{
 }
 header {
   text-align: center;
+  height: 150px;
+      
+        padding: 70px;
+        box-sizing: border-box;
+  background-color: #D5E3EB;
+  
 }
  footer{
    margin-top: 350px;
