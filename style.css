@@ -23,8 +23,8 @@ nav a {
   margin-left: 15px;
   display: inline-block;
   transition: 1s all;
-  border-box: 6px;
-  padding: 5px;
+  border-box: 5px;
+  padding: 3px;
   text-decoration: none;
 }
 
