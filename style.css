@@ -13,7 +13,9 @@ text-align: center;
 padding: 0;
 
 }
-nav a {
+
+
+.nav a {
   color: #D0ECFA;
   background-color: #4E7382;
   border-radius: 6px;
@@ -25,7 +27,7 @@ nav a {
   padding: 5px;
 }
 
-nav a:hover{ 
+.nav a:hover{ 
              background-color: #502542;
 }
 .menu-selected{ 
@@ -63,7 +65,7 @@ margin-top: 30;
 .logo{
   margin-left: auto;
   margin-right:auto;
-  margin-top:33px;
+  margin-top:32px;
   
 }
 header h2{
