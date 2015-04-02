@@ -101,7 +101,8 @@ font-size: 45px;
 margin-top: 50px;
 }
 
-h1{color: #321440;
+h1{
+  color: #321440;
 font-family: 'Poiret One', cursive;
 font-size: 36px;
 margin-top: 80px;
@@ -109,9 +110,9 @@ margin-top: 80px;
 }
 h2{
   color: #321440;
-  font-family: 'Poiret One', cursive
+  font-family: 'Poiret One', cursive;
   font-size: 25px;
-  margin-top: 70px;
+  margin-top: 85px;
 }
 
 h3{ 
@@ -261,7 +262,7 @@ font-size: 16px;
   padding: 6px 7px 7px 6px;
   text-decoration: none;
   vertical-align: middle;
-  margin-top: 65px;
+  margin-top: 70px;
 }
 
 .button :hover {
