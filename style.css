@@ -148,13 +148,20 @@ display: block;
   text-decoration: none;
   
 }
-h5,
+
+
 h6{
   margin-top: 76px;
   font-size: 20px;
   font-family:'Poiret One', cursive;
   
   
+}
+
+.h5gallery{
+  margin-top: 99px;
+  font-size: 20px;
+  font-family:'Poiret One', cursive;
 }
 
  .ptable{
