@@ -101,20 +101,20 @@ font-size: 45px;
 margin-top: 50px;
 }
 
-h1{
-  color: #321440;
-  font-family:'Alex Brush',cursive;
-  font-size: 40px;
-  margin-top: 60px;
+h1{color: #321440;
+font-family: 'Poiret One', cursive;
+font-size: 36px;
+margin-top: 80px;
 
 }
 h2{
-  
+  color: #321440;
+  font-family: 'Poiret One', cursive
   font-size: 25px;
   margin-top: 70px;
 }
 
-header h3{ 
+h3{ 
   color: #F5F5F5;
   font-family: 'Marck Script', cursive;
   font-size: 35px;
