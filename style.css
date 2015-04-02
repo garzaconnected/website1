@@ -31,7 +31,15 @@ nav a:hover{
              background-color: #000000;
 }
 .menu-selected{ 
- background-color: #755882;
+ background: 1px #c7b7b3;
+  background-image: -webkit-linear-gradient(top, #c7b7b3, #7d4b6c);
+  background-image: -moz-linear-gradient(top, #c7b7b3, #7d4b6c);
+  background-image: -ms-linear-gradient(top, #c7b7b3, #7d4b6c);
+  background-image: -o-linear-gradient(top, #c7b7b3, #7d4b6c);
+  background-image: linear-gradient(to bottom, #c7b7b3, #7d4b6c
+  font-family: Courier New;
+  
+  
 }
 
 
