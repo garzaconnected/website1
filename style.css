@@ -159,6 +159,7 @@ text-align: center;
 }
 
 .map{
+height: 300px;
 width: 400px;  
 margin-top: 150px;
 margin-left:auto;
@@ -166,11 +167,12 @@ margin-right: auto;
 }
 
 .contactinf {
-  margin: auto;
+  margin-left:auto;
+  margin-right:auto;
   color: #141934;
   border-radius: 3px;
   text-align: center;
-  margin-bottom: 40px;
+  margin-top:170px;
   width: 300px;
   display: inline-block;
 }
