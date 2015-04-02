@@ -25,6 +25,7 @@ nav a {
   transition: 1s all;
   border-box: 6px;
   padding: 5px;
+  text-decoration: none;
 }
 
 nav a:hover{ 
@@ -38,6 +39,8 @@ nav a:hover{
   background-image: -o-linear-gradient(top, #c7b7b3, #7d4b6c);
   background-image: linear-gradient(to bottom, #c7b7b3, #7d4b6c
   font-family: Courier New;
+  text-decoration: none;
+  
   
   
 }
@@ -50,7 +53,7 @@ footer{
   margin-right: -10px;
 }
  footer{
-   margin-top: 170px;
+   margin-top: 200px;
    
  }
 
