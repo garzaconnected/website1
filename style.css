@@ -136,10 +136,11 @@ h6{
 
 
  .resume {
-
+  width: 800px;
   margin-top: 60px;
   text-align:center;
-  
+  margin-left: auto;
+  margin-right:auto;
   
 }
 
@@ -147,9 +148,15 @@ h6{
   
   font-family:'Poiret One', cursive ;
   color: white;
-  margin-left: 43%;
+
   text-align: center;
+  margin-left:auto;
+  margin-right:auto;
+  width: 500px;
+  
 }
+
+
  
 
 .pic{
@@ -162,7 +169,7 @@ text-align: center;
 .map{
 height: 300px;
 width: 400px;  
-margin-top: 90px;
+margin-top: 80px;
 margin-left:auto;
 margin-right: auto;
 }
@@ -173,7 +180,7 @@ margin-right: auto;
   color: #141934;
   border-radius: 3px;
   text-align: center;
-  margin-top:150px;
+  margin-top:100px;
   width: 300px;
 
 }
