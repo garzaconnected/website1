@@ -116,8 +116,9 @@ display:block;
 }
 h5,
 h6{
-  font-size:17px;
+  font-size:20px;
   font-family:'Poiret One', cursive;
+  
   
 }
 
@@ -161,7 +162,7 @@ text-align: center;
 .map{
 height: 300px;
 width: 400px;  
-margin-top: 150px;
+margin-top: 90px;
 margin-left:auto;
 margin-right: auto;
 }
@@ -172,7 +173,7 @@ margin-right: auto;
   color: #141934;
   border-radius: 3px;
   text-align: center;
-  margin-top:170px;
+  margin-top:150px;
   width: 300px;
   display: inline-block;
 }
