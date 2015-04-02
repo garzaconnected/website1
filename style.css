@@ -32,14 +32,7 @@ nav a:hover{
              background-color: #000000;
 }
 .menu-selected{ 
- background: 1px #c7b7b3;
-  background-image: -webkit-linear-gradient(top, #c7b7b3, #7d4b6c);
-  background-image: -moz-linear-gradient(top, #c7b7b3, #7d4b6c);
-  background-image: -ms-linear-gradient(top, #c7b7b3, #7d4b6c);
-  background-image: -o-linear-gradient(top, #c7b7b3, #7d4b6c);
-  background-image: linear-gradient(to bottom, #c7b7b3, #7d4b6c
-  font-family: Courier New;
-  text-decoration: none;
+background-color: #AD6AB3;
   
 }
 
@@ -57,7 +50,7 @@ header {
   text-align: center;
 }
  footer{
-   margin-top: 250px;
+   margin-top: 450px;
  }
  footer{
         background-color: #D5E3EB;
@@ -77,14 +70,14 @@ margin-top: 30px;
 .logo{
   margin-left: auto;
   margin-right: auto;
-  margin-top: 32px;
+  margin-top: 33px;
   
 }
 header h2{
 color: #321440;
 font-family: 'Poiret One', cursive;
 font-size: 36px;
-margin-top: 50px;
+margin-top: 38px;
 }
 
 h1{
