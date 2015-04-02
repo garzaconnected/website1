@@ -43,6 +43,9 @@ nav a:hover{
   
 }
 
+a{ 
+  text-decoration: none;
+}
 
 header,
 footer{
@@ -50,19 +53,19 @@ footer{
   margin-left: -10px;
   margin-right: -10px;
 }
-
- footer{
-   margin-top: 250px;
- }
-
-
 header {
   text-align: center;
 }
-
-a{ 
-  text-decoration: none;
-}
+ footer{
+   margin-top: 300px;
+ }
+ footer{
+        background-color: #D5E3EB;
+        height: 150px;
+        text-align: center;
+        padding: 50px;
+        box-sizing: border-box;
+    }  
 
 header h1{
 color: #321440;
@@ -250,15 +253,6 @@ font-size: 16px;
   background-image: linear-gradient(to bottom, #cccddb, #4c6270);
   
 }   
- footer{
-        background-color: #D5E3EB;
-        height: 150px;
-        text-align: center;
-        padding: 50px;
-        box-sizing: border-box;
-    }  
-    
-
 
 .pen{
   width: 300px;
