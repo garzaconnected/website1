@@ -16,13 +16,13 @@ padding: 0;
 nav a {
   color: #D0ECFA;
   background-color: #4E7382;
-  border-radius: 4px;
+  border-radius: 6px;
   margin-top: 10px;
   margin-left: 15px;
   display: inline-block;
   transition: 1s all;
   border-box: 6px;
-  padding: 8px;
+  padding: 5px;
 }
 
 nav a:hover{ 
