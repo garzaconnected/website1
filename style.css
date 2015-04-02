@@ -21,8 +21,8 @@ nav a {
   margin-left: 15px;
   display: inline-block;
   transition: 1s all;
-  border-box: 10px;
- 
+  border-box: 6px;
+ padding: 10px;
 }
 
 nav a:hover{ 
