@@ -110,7 +110,8 @@ h1{
 }
 h2{
   
-  font-size: 35px;
+  font-size: 25px;
+  margin-top: 70px;
 }
 
 header h3{ 
@@ -260,6 +261,7 @@ font-size: 16px;
   padding: 6px 7px 7px 6px;
   text-decoration: none;
   vertical-align: middle;
+  margin-top: 65px;
 }
 
 .button :hover {
