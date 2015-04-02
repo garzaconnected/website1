@@ -8,9 +8,9 @@ background: -webkit-linear-gradient(270deg, rgb(0, 29, 56) 0%, rgb(254, 255, 255
 background: -o-linear-gradient(270deg, rgb(0, 29, 56) 0%, rgb(254, 255, 255) 100%);
 background: -ms-linear-gradient(270deg, rgb(0, 29, 56) 0%, rgb(254, 255, 255) 100%);
 background: linear-gradient(0deg, rgb(0, 29, 56) 0%, rgb(254, 255, 255) 100%);
-margin:0;
+margin: 0;
 text-align: center;
-padding:0;
+padding: 0;
 
 }
 nav a {
@@ -25,7 +25,7 @@ nav a {
 }
 
 nav a:hover{ 
-             background-color:#605D82;
+             background-color: #605D82;
 }
 
 
@@ -33,11 +33,11 @@ nav a:hover{
 header,
 footer{
 
-  margin-left:-10px;
-  margin-right:-10px;
+  margin-left: -10px;
+  margin-right: -10px;
 }
  footer{
-   margin-top:200px;
+   margin-top: 200px;
    
  }
 
@@ -57,7 +57,7 @@ a{
 }
 
 header h1{
-color :#321440;
+color: #321440;
 font-family: 'Poiret One', cursive;
 font-size: 45px;
 margin-top: 50px;
@@ -93,7 +93,7 @@ font-size: 30px;
 border: 3px #001C30; 
 border-radius: 7px;
 border-box: 39px;
-display:block;
+display: block;
 
   background-color: 1px #c7b7b3;
   background-image: -webkit-linear-gradient(top, #c7b7b3, #7d4b6c);
@@ -105,17 +105,17 @@ display:block;
   -moz-border-radius: 7px;
   margin-top: 100px;
   margin-right: auto;
-  margin-left:auto;
+  margin-left: auto;
   text-align: center;
-  width:300px;
+  width: 300px;
   padding: 6px 7px 7px 6px;
   text-decoration: none;
   
 }
 h5,
 h6{
-  margin-top:60px;
-  font-size:20px;
+  margin-top: 60px;
+  font-size: 20px;
   font-family:'Poiret One', cursive;
   
   
@@ -126,7 +126,7 @@ h6{
   width: 600px;
   text-align: center;
   margin-left: auto;
-  margin-right:auto;
+  margin-right: auto;
 
  }
 
@@ -135,9 +135,9 @@ h6{
 
  .resume {
   width: 450px;
-  height:500px;
+  height: 500px;
   margin-top: 50px;
-  text-align:center;
+  text-align: center;
   margin-left: auto;
   margin-right: auto;
   
@@ -152,6 +152,7 @@ h6{
   margin-left: auto;
   margin-right: auto;
   width: 300px;
+  border-collapse: collapse;
   
 
 }
@@ -168,17 +169,17 @@ text-align: center;
 height: 300px;
 width: 400px;  
 margin-top: 70px;
-margin-left:auto;
+margin-left: auto;
 margin-right: auto;
 }
 
 .contactinf {
-  margin-left:auto;
-  margin-right:auto;
+  margin-left: auto;
+  margin-right: auto;
   color: #141934;
   border-radius: 3px;
   text-align: center;
-  margin-top:75px;
+  margin-top: 75px;
   width: 300px;
 
 }
