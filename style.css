@@ -21,14 +21,15 @@ nav a {
   margin-left: 15px;
   display: inline-block;
   transition: 1s all;
-  border-box: 9px;
+  border-box: 10px;
+ 
 }
 
 nav a:hover{ 
-             background-color: #605D82;
+             background-color: #502542;
 }
 .menu-selected{ 
- background-color: #040D78;
+ background-color: #783761;
 }
 
 
@@ -251,9 +252,7 @@ font-size: 16px;
   width: 300px;
   height: 400px;
   margin-top: 100px;
-  border-sizing: border-box;
-  border-radius: 25%;
- 
+  border-radius: 15%;
  
 }
 
