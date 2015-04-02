@@ -1,4 +1,6 @@
-
+*{
+  text-align: center;
+}
 body{
   color: #321440;
 background-color: 
@@ -10,6 +12,7 @@ background: -ms-linear-gradient(270deg, rgb(0, 29, 56) 0%, rgb(254, 255, 255) 10
 background: linear-gradient(0deg, rgb(0, 29, 56) 0%, rgb(254, 255, 255) 100%);
 margin:0;
 text-align: center;
+padding:0;
 
 }
 nav a {
@@ -184,6 +187,8 @@ margin-top:120px;
 
 font-size: 16px;
 }
+
+
  .video{ 
   text-align: center; 
   margin-left: 39%;
