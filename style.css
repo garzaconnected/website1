@@ -40,8 +40,8 @@ background-color:background: 1px #c7b7b3;
   background-image: linear-gradient(to bottom, #c7b7b3, #7d4b6c);
   font-family: 'Poiret One', cursive;
   border-radius: 3px;
- border: 12px;
-  
+  padding-left: 3px;
+  padding-right: 3px;
 }
 
 
