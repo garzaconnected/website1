@@ -28,7 +28,7 @@ nav a {
 }
 
 nav a:hover{ 
-             background-color: blue;
+             background-color: #1A375C;
 }
 
 .menu-selected{ 
@@ -57,7 +57,7 @@ footer{
 }
 header {
   text-align: center;
-  height: 100px;
+  height: 90px;
       
         padding: 70px;
         box-sizing: border-box;
