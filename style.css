@@ -20,7 +20,7 @@ nav a {
   
   display: inline-block;
   transition: 1s all;
-  
+  font-family: 'Poiret One', cursive;
   text-decoration: none;
   margin-top: 10px;
   margin-left: 15px;
@@ -38,8 +38,7 @@ background-color:background: 1px #c7b7b3;
   background-image: -ms-linear-gradient(top, #c7b7b3, #7d4b6c);
   background-image: -o-linear-gradient(top, #c7b7b3, #7d4b6c);
   background-image: linear-gradient(to bottom, #c7b7b3, #7d4b6c);
-  font-family: Courier New;
-
+  font-family: 'Poiret One', cursive;
 }
 
 a{ 
