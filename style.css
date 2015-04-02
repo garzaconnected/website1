@@ -17,7 +17,7 @@ padding: 0;
 
 nav a {
   color: #D0ECFA;
-  background-color: #4E7382;
+  background-color: #02344E;
   border-radius: 6px;
   margin-top: 10px;
   margin-left: 15px;
@@ -31,7 +31,7 @@ nav a:hover{
              background-color: #502542;
 }
 .menu-selected{ 
- background-color: #783761;
+ background-color: #62344E;
 }
 
 
