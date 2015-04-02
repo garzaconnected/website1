@@ -9,13 +9,13 @@ background: -o-linear-gradient(270deg, rgb(0, 29, 56) 0%, rgb(254, 255, 255) 100
 background: -ms-linear-gradient(270deg, rgb(0, 29, 56) 0%, rgb(254, 255, 255) 100%);
 background: linear-gradient(0deg, rgb(0, 29, 56) 0%, rgb(254, 255, 255) 100%);
 margin: 0;
-text-align: center;
+
 padding: 0;
 
 }
 
 
-.nav a {
+nav a {
   color: #D0ECFA;
   background-color: #4E7382;
   border-radius: 6px;
@@ -27,7 +27,7 @@ padding: 0;
   padding: 5px;
 }
 
-.nav a:hover{ 
+nav a:hover{ 
              background-color: #502542;
 }
 .menu-selected{ 
