@@ -41,8 +41,6 @@ nav a:hover{
   font-family: Courier New;
   text-decoration: none;
   
-  
-  
 }
 
 
@@ -52,9 +50,9 @@ footer{
   margin-left: -10px;
   margin-right: -10px;
 }
+
  footer{
-   margin-top: 200px;
-   
+   margin-top: 250px;
  }
 
 
