@@ -113,7 +113,7 @@ header h3{
   color: #F5F5F5;
   font-family: 'Marck Script', cursive;
   font-size: 35px;
-  margin-top: 100px;
+  margin-top: 150px;
 }
 
 h4{
@@ -133,7 +133,7 @@ display: block;
   background-image: linear-gradient(to bottom, #c7b7b3, #7d4b6c);
   -webkit-border-radius:7px;
   -moz-border-radius: 7px;
-  margin-top: 100px;
+  margin-top: 70px;
   margin-right: auto;
   margin-left: auto;
   text-align: center;
@@ -152,7 +152,7 @@ h6{
 }
 
  .ptable{
-  margin-top: 80px;
+  margin-top: 75px;
   width: 600px;
   text-align: center;
   margin-left: auto;
@@ -166,7 +166,7 @@ h6{
  .resume {
   width: 450px;
   height: 550px;
-  margin-top: 50px;
+  margin-top: 60px;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
